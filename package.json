@@ -1,0 +1,17 @@
+{
+  "name": "attendence",
+  "version": "1.0.0",
+  "description": "Attendence project",
+  "main": "server.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "Md. Zahirul Haque",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
